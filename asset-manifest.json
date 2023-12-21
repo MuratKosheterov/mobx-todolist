@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MuratKosheterov/mobx-todolist/static/css/main.24928c44.css",
+    "main.js": "/MuratKosheterov/mobx-todolist/static/js/main.1d1a563a.js",
+    "index.html": "/MuratKosheterov/mobx-todolist/index.html",
+    "main.24928c44.css.map": "/MuratKosheterov/mobx-todolist/static/css/main.24928c44.css.map",
+    "main.1d1a563a.js.map": "/MuratKosheterov/mobx-todolist/static/js/main.1d1a563a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24928c44.css",
+    "static/js/main.1d1a563a.js"
+  ]
+}
